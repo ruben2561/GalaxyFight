@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 jan. 2021, 12:53:38
+    Author     : ruben
+*/
+.EindScherm{
+ -fx-background-image: url('EindScherm.JPG');
+ -fx-background-size: 100% 100%;
+}
+
+/**
+ * Bronvermelding:
+ * dit is de foto die gebruikt wordt voor de achtergrond;
+ *       https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.esa.int%2Fspace19plus%2F&psig=AOvVaw18YMyh7Wbmz001njK0EMc5&ust=1611611118796000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD0g7TFte4CFQAAAAAdAAAAABAD
+
+ */
